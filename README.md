@@ -21,3 +21,4 @@ I am an engineering professional with over 2.5 years of experience in the fintec
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/kaushal-patil-124433214](https://www.linkedin.com/in/kaushal-patil-124433214)
 * **Email:** patilkaushal2052@gmail.com
+
