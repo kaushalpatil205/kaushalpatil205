@@ -10,10 +10,12 @@ I am an engineering professional with over 2.5 years of experience in the fintec
 * **Data Analytics & BI:** Extracting actionable insights from complex datasets, tracking KPIs, and building interactive dashboards to drive strategic decision-making.
 
 ### 🛠️ Tech Stack
-* **DevOps & Cloud:** AWS (EC2, S3, EKS, VPC), Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux
-* **Languages:** Bash, Python, SQL (PostgreSQL, MySQL)
-* **Web & APIs:** FastAPI, Flask, Nginx
-* **Data & BI:** Power BI, Advanced Excel, pandas, NumPy
+* **Cloud & Infrastructure:** AWS (EC2, VPC, S3, RDS, IAM, ALB, Auto Scaling, CloudFront), Linux, Nginx
+* **DevOps & CI/CD:** CI/CD Pipelines, Jenkins, GitHub Actions, ArgoCD, Bash Scripting
+* **Containers & IaC:** Kubernetes, Docker, ECR, Terraform, Ansible
+* **Security & Observability:** Prometheus, Grafana, ELK Stack
+* **Analytical Skills:** Data Analytics, Data Modeling, LLMs, Generative AI, AI Agents
+* **Programming & Frameworks:** Python, Flask, FastAPI, MySQL, PostgreSQL, MongoDB
 
 ### 🌱 Currently Exploring
 * Multi-Cloud Architectures and AI-driven automation.
