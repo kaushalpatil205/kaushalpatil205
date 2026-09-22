@@ -1,26 +1,41 @@
-# Hi there 👋, I'm Kaushal Patil
+<h1 align="center">🚀 Cloud DevOps Engineer & Data Analyst | ☁️ Cloud & DevOps Enthusiast</h1>
 
-**Cloud DevOps Engineer & Data Analyst**
+<p align="center">
+<a href="https://linkedin.com/in/kaushal-patil-124433214"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:patilkaushal2052@gmail.com"><img src="https://img.shields.io/badge/EMAIL-patilkaushal2052@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-I am an engineering professional with over 2.5 years of experience in the fintech and B2B SaaS domains. I specialize in architecting scalable cloud infrastructure, automating CI/CD workflows, and bridging the gap between production engineering and data analytics.
+<br>
 
-### 🚀 What I do
-* **Cloud & DevOps:** Architecting automated CI/CD pipelines, provisioning infrastructure as code (IaC), and managing scalable application deployments using AWS, Docker, Kubernetes, and Terraform.
-* **Process Automation:** Building robust data pipelines and seamlessly transitioning complex applications and quantitative models into production-ready cloud environments.
-* **Data Analytics & BI:** Extracting actionable insights from complex datasets, tracking KPIs, and building interactive dashboards to drive strategic decision-making.
+### ☁️ Cloud & DevOps Infrastructure
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🛠️ Tech Stack
-* **Cloud & Infrastructure:** AWS (EC2, VPC, S3, RDS, IAM, ALB, Auto Scaling, CloudFront), Linux, Nginx
-* **DevOps & CI/CD:** CI/CD Pipelines, Jenkins, GitHub Actions, ArgoCD, Bash Scripting
-* **Containers & IaC:** Kubernetes, Docker, ECR, Terraform, Ansible
-* **Security & Observability:** Prometheus, Grafana, ELK Stack
-* **Analytical Skills:** Data Analytics, Data Modeling, LLMs, Generative AI, AI Agents
-* **Programming & Frameworks:** Python, Flask, FastAPI, MySQL, PostgreSQL, MongoDB
+<br>
 
-### 🌱 Currently Exploring
-* Multi-Cloud Architectures and AI-driven automation.
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/kaushal-patil-124433214](https://www.linkedin.com/in/kaushal-patil-124433214)
-* **Email:** patilkaushal2052@gmail.com
+<br>
+
+### ☁️ Featured DevOps & Cloud Infrastructure Projects
+
+| Project | Tech Stack | Architecture Highlights | Links |
+|---|---|---|---|
+| ⚙️ [**AlgoFleet Orchestrator**](https://github.com/kaushalpatil205/algofleet-orchestrator) | `AWS EKS` `ECS Fargate` `Terraform` `ArgoCD` `Prometheus` | • Dual-architecture monorepo (Enterprise EKS & Serverless ECS Fargate).<br>• Automated manifest rendering via GitHub Actions and secure cross-repo Docker builds.<br>• Full observability stack with Prometheus and Grafana. | 🔗 [Repo](https://github.com/kaushalpatil205/algofleet-orchestrator) |
+| 🏗️ [**MERN Deployment (Terraform & Ansible)**](https://github.com/kaushalpatil205/MERN-Deployment-Terraform-Ansible) | `Terraform` `Ansible` `AWS VPC` `Nginx` `MongoDB` | • Automated AWS VPC provisioning with Public & Private subnets.<br>• Ansible playbooks for zero-touch configuration of Nginx, Node.js, and MongoDB.<br>• Application Load Balancers for traffic distribution and fault tolerance. | 🔗 [Repo](https://github.com/kaushalpatil205/MERN-Deployment-Terraform-Ansible) |
+| ☸️ [**Microservices K8s Deployment**](https://github.com/kaushalpatil205/Microservices-K8s-Deployment) | `Kubernetes` `Docker` `Helm` `CI/CD` | • Containerized deployment of microservices on Kubernetes clusters.<br>• Automated scaling and resource optimization.<br>• Unified Helm charts for streamlined release management. | 🔗 [Repo](https://github.com/kaushalpatil205/Microservices-K8s-Deployment) |
+| 📊 [**Bartman Data Analytics Projects**](https://github.com/kaushalpatil205/Bartman-Projects/tree/main) | `Python` `Data Analytics` `SQL` `Power BI` | • Comprehensive data analytics and visualization workflows.<br>• SQL querying for extracting insights from large datasets.<br>• Interactive dashboards for business intelligence. | 🔗 [Repo](https://github.com/kaushalpatil205/Bartman-Projects/tree/main) |
+| 🔧 [**Microservices Task**](https://github.com/kaushalpatil205/Microservices-Task) | `Python` `FastAPI` `Microservices` `APIs` | • Built modular microservices utilizing Python and FastAPI.<br>• RESTful API design for seamless service-to-service communication.<br>• Efficient handling of server-side logic and databases. | 🔗 [Repo](https://github.com/kaushalpatil205/Microservices-Task) |
 
