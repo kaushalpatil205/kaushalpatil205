@@ -7,6 +7,11 @@
 
 <br>
 
+### 👋 About Me
+I am a **Cloud DevOps Engineer and Data Analyst** with over 2.5 years of experience architecting scalable AWS infrastructure, automating CI/CD workflows, and building robust data pipelines. I specialize in **Kubernetes, Docker, Terraform, and Python**, bridging the gap between complex software engineering and highly available production environments.
+
+<br>
+
 ### ☁️ Cloud & DevOps Infrastructure
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
