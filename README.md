@@ -19,14 +19,6 @@
 
 <br>
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 <br>
 
 ### ☁️ Featured DevOps & Cloud Infrastructure Projects
@@ -39,3 +31,13 @@
 | ☸️ [**Microservices K8s Deployment**](https://github.com/kaushalpatil205/Microservices-K8s-Deployment) | `Kubernetes` `Node.js` `Helm` `Docker` | • Containerized deployment of Node.js microservices on Kubernetes clusters.<br>• Configured Deployments, Services, and Ingress for seamless service discovery.<br>• Automated scaling, resource optimization, and unified release management. | 🔗 [Repo](https://github.com/kaushalpatil205/Microservices-K8s-Deployment) |
 | 🐳 [**Microservices Containerization**](https://github.com/kaushalpatil205/Microservices-Task) | `Docker` `Docker Compose` `API Gateway` | • Containerized 4 Node.js microservices using Docker and orchestrated them with Docker Compose.<br>• Established a shared bridge network for secure inter-service communication.<br>• Deployed a central API Gateway to securely proxy and route backend requests. | 🔗 [Repo](https://github.com/kaushalpatil205/Microservices-Task) |
 | 🛠️ [**Bartman Cloud & DevOps Projects**](https://github.com/kaushalpatil205/Bartman-Projects/tree/main) | `AWS EKS` `Terraform` `Jenkins` `Docker` | • Automated CI/CD pipelines via Jenkins for Spring Boot & Angular apps.<br>• Advanced Kubernetes architecture on EKS with Core Objects and Service Discovery.<br>• Infrastructure as Code (IaC) templates for AWS provisioning. | 🔗 [Repo](https://github.com/kaushalpatil205/Bartman-Projects/tree/main) |
+
+<br>
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
