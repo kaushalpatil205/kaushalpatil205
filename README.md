@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Cloud DevOps Engineer & Data Analyst | ☁️ Cloud & DevOps Enthusiast</h1>
+<h1 align="center">🚀 Python - DevOps Engineer & Data Analyst | ☁️ Cloud & DevOps Enthusiast</h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/kaushal-patil-124433214"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
