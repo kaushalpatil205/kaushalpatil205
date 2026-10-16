@@ -8,7 +8,7 @@
 <br>
 
 ### 👋 About Me
-I am a **Cloud DevOps Engineer and Data Analyst** with over 2.5 years of experience architecting scalable AWS infrastructure, automating CI/CD workflows, and building robust data pipelines. I specialize in **Kubernetes, Docker, Terraform, and Python**, bridging the gap between complex software engineering and highly available production environments.
+I am a **Python - DevOps Engineer and Data Analyst** with over 2.5 years of experience architecting scalable AWS infrastructure, automating CI/CD workflows, and building robust data pipelines. I specialize in **Kubernetes, Docker, Terraform, and Python**, bridging the gap between complex software engineering and highly available production environments.
 
 <br>
 
